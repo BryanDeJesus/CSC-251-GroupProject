@@ -1,0 +1,16 @@
+Reservation Norris
+
+The number of your party is 42
+==============================
+Rentals: 
+
+Tables: 20
+Chairs: 42
+Extra chairs: 0
+
+==============================
+Subtotal: $920.00
+Discount: $0.00
+Tax: $64.40
+Total: $984.40
+
