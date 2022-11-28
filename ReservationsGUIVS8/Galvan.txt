@@ -1,0 +1,16 @@
+Reservation Galvan
+
+The number of your party is 35
+==============================
+Rentals: 
+
+Tables: 17
+Chairs: 36
+Extra chairs: 1
+
+==============================
+Subtotal: $700.00
+Discount: $105.00
+Tax: $49.00
+Total: $854.00
+

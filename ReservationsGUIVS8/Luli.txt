@@ -1,0 +1,16 @@
+Reservation Luli
+
+The number of your party is 50
+==============================
+Rentals: 
+
+Tables: 24
+Chairs: 50
+Extra chairs: 0
+
+==============================
+Subtotal: $980.00
+Discount: $196.00
+Tax: $68.60
+Total: $1244.60
+
