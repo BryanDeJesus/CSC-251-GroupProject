@@ -1,0 +1,13 @@
+Reservation null
+
+==============================
+Rentals: 
+
+Tables: 14
+Chairs: 30
+==============================
+Subtotal: $740.00
+Discount: $111.00
+Tax: $51.80
+Total: $902.80
+

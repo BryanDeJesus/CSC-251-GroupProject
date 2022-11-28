@@ -1,0 +1,16 @@
+Reservation Lester
+
+The number of your party is 26
+==============================
+Rentals: 
+
+Tables: 12
+Chairs: 26
+Extra chairs: 0
+
+==============================
+Subtotal: $500.00
+Discount: $50.00
+Tax: $35.00
+Total: $585.00
+
