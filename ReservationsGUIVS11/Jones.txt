@@ -1,0 +1,16 @@
+Reservation Jones
+
+The number of your party is 20
+==============================
+Rentals: 
+
+Tables: 9
+Chairs: 20
+Extra chairs: 0
+
+==============================
+Subtotal: $380.00
+Discount: $57.00
+Tax: $26.60
+Total: $463.60
+

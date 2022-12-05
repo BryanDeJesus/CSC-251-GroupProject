@@ -1,0 +1,12 @@
+Reservation Jeremiah Mouse
+==============================
+Rentals: 
+
+Tables: 34
+Chairs: 133
+==============================
+Subtotal: $3000.00
+Discount: $600.00
+Tax: $210.00
+Total: $3810.00
+
