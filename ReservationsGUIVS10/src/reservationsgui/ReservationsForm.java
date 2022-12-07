@@ -479,7 +479,7 @@ public class ReservationsForm
         }
         subTotal = CalcSubTotalPrice(numChairs, numTables);
         discount = CalcDiscount(subTotal);
-        totalCost = subTotal + CalcTax(subTotal) + CalcDiscount(subTotal);
+        totalCost = subTotal + CalcTax(subTotal) - CalcDiscount(subTotal);
         
         DisplayText = "Reservation " + name + "\n\n" +
                 "The number of your party is " + partyNum + "\n" +

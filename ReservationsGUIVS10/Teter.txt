@@ -1,1 +1,16 @@
-[]
+Reservation teter
+
+The number of your party is 55
+==============================
+Rentals: 
+
+Tables: 27
+Chairs: 56
+Extra chairs: 1
+
+==============================
+Subtotal: $1100.00
+Discount: $165.00
+Tax: $77.00
+Total: $1012.00
+
