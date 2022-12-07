@@ -1,0 +1,1 @@
+The calculation in the previous versions still contain an error with the discount. This updated version fixes the discount problem that we encounered.
